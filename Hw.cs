@@ -5,9 +5,10 @@ namespace Hw
  {
   static void Main(string[] args)
   {
-      System.Console.WriteLine("Hello World!");
+      Console.WriteLine("Hello World!");
       string hi;
       //Funcionalide A aqui.
+      //Funcionalidade B.
   }   
  }   
 }
