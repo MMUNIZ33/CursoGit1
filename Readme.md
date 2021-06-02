@@ -26,3 +26,11 @@ Melhoria 1, Melhoria 2
     3. CSS diferente para grupos de clientes
 2. Integração com outros pagamentos
 3. Sistema de bônus 
+
+### Imagem Local
+
+![Logo Spotify](Img/logo-spotify-256.png)
+
+### Imagem Externa
+
+![Logo Ubuntu](https://plus.diolinux.com.br/uploads/default/original/2X/5/5fbbe01c492a84e01ec1dc828205e06db2f0a52e.png)
