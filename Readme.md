@@ -9,3 +9,18 @@ _Olá mundo!_
 ###### Melhorias do Projeto:
 
 Melhoria 1, Melhoria 2
+
+### Linguagens Utilizadas:
+
+* C#
+* HTML
+* CSS
+
+### Funcionalidades a Desenvolver:
+
+1. Área de membros
+        1. Login diferente para grupos de clientes
+        2. Desconto especial para grupos de clientes
+        3. CSS diferente para grupos de clientes
+2. Integração com outros pagamentos
+3. Sistema de bônus 
