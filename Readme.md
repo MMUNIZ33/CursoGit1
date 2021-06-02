@@ -2,6 +2,8 @@
 
 Apenas muitos arquivos aleatórios que fiz enquanto aprendia **Git** e **GitHub**.
 
+**Alguns testes que fiz para aprender a utilizar o _Markdown._**
+
 ## Testando repositório!
 
 _Olá mundo!_
