@@ -54,3 +54,10 @@ https://github.com/MMUNIZ33
 ```
 
 Podemos colocar uma ```String``` da próxima vez.
+
+### Lista de Tarefas
+
+ - [x] Área de membros
+ - [ ] Integração com outros pagamentos
+ - [ ] Sistema bônus 
+ - [x] CSS rodapé
